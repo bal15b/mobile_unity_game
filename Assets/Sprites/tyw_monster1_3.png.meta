@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 06e3c537e1f175a42be57eca1f799c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2791984344524363224
+    second: tyw_monster1_3_0
+  - first:
+      213: 8370759459105218783
+    second: tyw_monster1_3_1
+  - first:
+      213: -4121258531432699657
+    second: tyw_monster1_3_2
+  - first:
+      213: -8461712901469478552
+    second: tyw_monster1_3_3
+  - first:
+      213: 6374291529942152046
+    second: tyw_monster1_3_4
+  - first:
+      213: 763820372878471319
+    second: tyw_monster1_3_5
+  - first:
+      213: -1028738183749950679
+    second: tyw_monster1_3_6
+  - first:
+      213: 5979671403944978179
+    second: tyw_monster1_3_7
+  - first:
+      213: 511136883076678572
+    second: tyw_monster1_3_8
+  - first:
+      213: -7174759754333503424
+    second: tyw_monster1_3_9
+  - first:
+      213: -2094624449646660136
+    second: tyw_monster1_3_10
+  - first:
+      213: -6531824216321251785
+    second: tyw_monster1_3_11
+  - first:
+      213: -333796943139320631
+    second: tyw_monster1_3_12
+  - first:
+      213: 7933130397446852530
+    second: tyw_monster1_3_13
+  - first:
+      213: -1686649232753946540
+    second: tyw_monster1_3_14
+  - first:
+      213: -3085241352638888835
+    second: tyw_monster1_3_15
+  - first:
+      213: -4979487407756659138
+    second: tyw_monster1_3_16
+  - first:
+      213: 7505609029879574782
+    second: tyw_monster1_3_17
+  - first:
+      213: -572624389914491353
+    second: tyw_monster1_3_18
+  - first:
+      213: 5305559378999357027
+    second: tyw_monster1_3_19
+  - first:
+      213: -6751495497404348144
+    second: tyw_monster1_3_20
+  - first:
+      213: -8942147325307763480
+    second: tyw_monster1_3_21
+  - first:
+      213: 5689304188068255802
+    second: tyw_monster1_3_22
+  - first:
+      213: -2367421838804383900
+    second: tyw_monster1_3_23
+  - first:
+      213: -3374707044849671735
+    second: tyw_monster1_3_24
+  - first:
+      213: 6247121491778018736
+    second: tyw_monster1_3_25
+  - first:
+      213: -5597130346810664532
+    second: tyw_monster1_3_26
+  - first:
+      213: 2877569000746763593
+    second: tyw_monster1_3_27
+  - first:
+      213: 5044936030071696892
+    second: tyw_monster1_3_28
+  - first:
+      213: 3364878105425692068
+    second: tyw_monster1_3_29
+  - first:
+      213: 8501212183730784812
+    second: tyw_monster1_3_30
+  - first:
+      213: -2010485917965471556
+    second: tyw_monster1_3_31
+  - first:
+      213: -4195912065046001831
+    second: tyw_monster1_3_32
+  - first:
+      213: 4854232715800711654
+    second: tyw_monster1_3_33
+  - first:
+      213: 7401587767801783903
+    second: tyw_monster1_3_34
+  - first:
+      213: -601623596683443179
+    second: tyw_monster1_3_35
+  - first:
+      213: -3148863283566224228
+    second: tyw_monster1_3_36
+  - first:
+      213: 2064025762840051442
+    second: tyw_monster1_3_37
+  - first:
+      213: -7588449290864879569
+    second: tyw_monster1_3_38
+  - first:
+      213: 7502458803900927298
+    second: tyw_monster1_3_39
+  - first:
+      213: 2847192297885346449
+    second: tyw_monster1_3_40
+  - first:
+      213: 6653059066014104631
+    second: tyw_monster1_3_41
+  - first:
+      213: 1893161010334719716
+    second: tyw_monster1_3_42
+  - first:
+      213: -6223375676756864969
+    second: tyw_monster1_3_43
+  - first:
+      213: -14410513318792859
+    second: tyw_monster1_3_44
+  - first:
+      213: -5433912185013153173
+    second: tyw_monster1_3_45
+  - first:
+      213: -6035642670531162320
+    second: tyw_monster1_3_46
+  - first:
+      213: -5958899922226636414
+    second: tyw_monster1_3_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tyw_monster1_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d593d108fe1fb620800000000000000
+      internalID: 2791984344524363224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0253cb069ea2470800000000000000
+      internalID: 8370759459105218783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e76673395ec6c0800000000000000
+      internalID: -4121258531432699657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861629cb2f4f19a80800000000000000
+      internalID: -8461712901469478552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63bbf0cf58067850800000000000000
+      internalID: 6374291529942152046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b0ad0592a99a00800000000000000
+      internalID: 763820372878471319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_6
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92324b6821039b1f0800000000000000
+      internalID: -1028738183749950679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a3b1d57f0cf250800000000000000
+      internalID: 5979671403944978179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c26b794ce71700800000000000000
+      internalID: 511136883076678572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ce2654022e6c90800000000000000
+      internalID: -7174759754333503424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_10
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d576fc29266ee2e0800000000000000
+      internalID: -2094624449646660136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 753
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a0ea7b7c4a55a0800000000000000
+      internalID: -6531824216321251785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc111e27d1e5bf0800000000000000
+      internalID: -333796943139320631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4ca0a014281e60800000000000000
+      internalID: 7933130397446852530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45014058571d798e0800000000000000
+      internalID: -1686649232753946540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740d9906550f25d0800000000000000
+      internalID: -3085241352638888835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363229c59e45eab0800000000000000
+      internalID: -4979487407756659138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0bfe075a7492860800000000000000
+      internalID: 7505609029879574782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260c69b621ad08f0800000000000000
+      internalID: -572624389914491353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eaff7252221a940800000000000000
+      internalID: 5305559378999357027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198096bd9edd42a0800000000000000
+      internalID: -6751495497404348144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e442d9926c17e380800000000000000
+      internalID: -8942147325307763480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3853fc040874fe40800000000000000
+      internalID: 5689304188068255802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_23
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 642
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670098716a352fd0800000000000000
+      internalID: -2367421838804383900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c12aba92d1aa21d0800000000000000
+      internalID: -3374707044849671735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd132ae5eb32b650800000000000000
+      internalID: 6247121491778018736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca99accba9ff252b0800000000000000
+      internalID: -5597130346810664532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945cf2a92cd2fe720800000000000000
+      internalID: 2877569000746763593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2ef21796330640800000000000000
+      internalID: 5044936030071696892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5436a1fc272be20800000000000000
+      internalID: 3364878105425692068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a0f73907f5af570800000000000000
+      internalID: 8501212183730784812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03eb9a5b15914e0800000000000000
+      internalID: -2010485917965471556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957482e253025c5c0800000000000000
+      internalID: -4195912065046001831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_33
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1916aafe2bd5340800000000000000
+      internalID: 4854232715800711654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_34
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56a3b90cd8b7b660800000000000000
+      internalID: 7401587767801783903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 531
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c03fb68a96a7f0800000000000000
+      internalID: -601623596683443179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd3c8e68dfc44d0800000000000000
+      internalID: -3148863283566224228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fef551ee74e4ac10800000000000000
+      internalID: 2064025762840051442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281fe5439960b690800000000000000
+      internalID: -7588449290864879569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d448c48861e1860800000000000000
+      internalID: 7502458803900927298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2fa25f42438720800000000000000
+      internalID: 2847192297885346449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c767b98f9645c50800000000000000
+      internalID: 6653059066014104631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_42
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eede9398ebd54a10800000000000000
+      internalID: 1893161010334719716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d91b7bc022a9a0800000000000000
+      internalID: -6223375676756864969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5613a98e6bdcccff0800000000000000
+      internalID: -14410513318792859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_45
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62df9768add694b0800000000000000
+      internalID: -5433912185013153173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fccc728f61d3ca0800000000000000
+      internalID: -6035642670531162320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyw_monster1_3_47
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 420
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891493a71cbd4da0800000000000000
+      internalID: -5958899922226636414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
